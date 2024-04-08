@@ -1,0 +1,20 @@
+.navbar{
+    background-color: lightgray;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+}
+
+.footer{
+    background-color: lightgray;
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.bi{
+    color: black;
+}
